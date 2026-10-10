@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/global_grouse_9645), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Rolling Peak](./practice/python/the-rolling-peak) | Python | Medium | 2026-10-10 |
 | [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-10-10 |
 
 <!-- datadriven:index:end -->
